@@ -6,19 +6,19 @@ const ChatBanner = () => {
       <img
         className="p_absoulte cloud"
         data-parallax='{"x": 0, "y": 150}'
-        src={require('../../img/home-chat/cloud.png')}
+        src={require('../img/home-chat/cloud.png')}
         alt=""
       />
       <img
         className="p_absoulte left wow fadeInLeft"
         data-wow-delay="0.2s"
-        src={require('../../img/home-chat/left_leaf.png')} 
+        src={require('../img/home-chat/left_leaf.png')} 
         alt=""
       />
       <img
         className="p_absoulte right wow fadeInRight"
         data-wow-delay="0.3s"
-        src={require('../../img/home-chat/right_leaf.png')}
+        src={require('../img/home-chat/right_leaf.png')}
         alt=""
       />
       <div className="container">
@@ -26,7 +26,7 @@ const ChatBanner = () => {
           <div className="col-lg-6">
             <div className="chat_banner_content">
               <div className="c_tag wow fadeInUp">
-                <img src={require("../../img/home-chat/live_chat.png")} alt="" /> Live chat
+                <img src={require("../img/home-chat/live_chat.png")} alt="" /> Live chat
               </div>
               <h2 className="wow fadeInUp" data-wow-delay="0.2s">
                 Engage your website visitors using <strong>Live Chat</strong>
@@ -46,17 +46,17 @@ const ChatBanner = () => {
             <div className="chat_img">
               <img
                 className="p_absoulte p_one"
-                src={require('../../img/home-chat/panguin_img_one.png')}
+                src={require('../img/home-chat/panguin_img_one.png')}
                 alt=""
               />
               <img
                 className="p_absoulte p_two"
-                src={require('../../img/home-chat/panguin_img_two.png')}
+                src={require('../img/home-chat/panguin_img_two.png')}
                 alt=""
               />
               <img
                 className="p_absoulte p_three"
-                src={require('../../img/home-chat/panguin_img_three.png')}
+                src={require('../img/home-chat/panguin_img_three.png')}
                 alt=""
               />
               <div className="round one"></div>
@@ -65,7 +65,7 @@ const ChatBanner = () => {
               <img
                 className="wow fadeInUp"
                 data-wow-delay="0.2s"
-                src={require('../../img/home-chat/Messages.png')}
+                src={require('../img/home-chat/Messages.png')}
                 alt="chat-img"
               />
             </div>

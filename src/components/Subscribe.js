@@ -4,7 +4,6 @@ import SeoTitle from '../components/Title/SeoTitle';
 
 class Subscribe extends Component {
     render(){
-        let FooterData = this.props.FooterData;
         return(
             <React.Fragment>
                 <section className="seo_subscribe_area">

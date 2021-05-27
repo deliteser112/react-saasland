@@ -1,5 +1,5 @@
 import React from 'react';
-import Sectitle from "../../Title/Sectitle";
+import Sectitle from "../Title/Sectitle";
 import Tabitem from "./CloudServiceTabItem";
 
 const CloudServiceTab =()=>{
