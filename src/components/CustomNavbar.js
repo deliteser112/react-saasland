@@ -30,7 +30,7 @@ class CustomNavbar extends Component {
 
                         <div className="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul className={`navbar-nav menu ml-auto ${nClass}`}>
-                                <li className="nav-item dropdown submenu mega_menu mega_menu_two">
+                                {/* <li className="nav-item dropdown submenu mega_menu mega_menu_two">
                                     <Link to="./" className="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                         Home
                                     </Link>
@@ -235,7 +235,10 @@ class CustomNavbar extends Component {
                                         <li className="nav-item"><NavLink to="/BlogSingle" className="nav-link">Blog Single</NavLink></li>
                                     </ul>
                                 </li>
-                                <li className="nav-item"><NavLink title="Pricing" className="nav-link" to="/Contact">Contact</NavLink></li>
+                                <li className="nav-item"><NavLink title="Pricing" className="nav-link" to="/Contact">Contact</NavLink></li> */}
+
+                                <li className="nav-item"><NavLink exact title="Home" className="nav-link" to='/'>Home</NavLink></li>
+                                <li className="nav-item"><NavLink exact title="Faq" className="nav-link" to='/Faq'>Faq</NavLink></li>
                             </ul>
                             <a className={`btn_get btn_hover ${hbtnClass}`} href="#get-app">Get Started</a>
                         </div>
