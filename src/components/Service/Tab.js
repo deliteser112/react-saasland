@@ -1,6 +1,6 @@
 import React from 'react';
 import Sectitle from "../Title/Sectitle";
-import Tabitem from "./CloudServiceTabItem";
+import Tabitem from "./TabItem";
 
 const CloudServiceTab =()=>{
     return(

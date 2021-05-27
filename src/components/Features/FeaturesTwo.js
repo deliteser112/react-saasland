@@ -1,5 +1,5 @@
 import React from 'react';
-import SeoTitle from '../../components/Title/SeoTitle';
+import SeoTitle from '../Title/SeoTitle';
 
 const CloudFeaturesTwo =()=>{
     return(
