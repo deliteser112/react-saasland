@@ -3405,7 +3405,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   left: 0;
   top: 0;
   z-index: -1;
-  background: url("../img/home5/shap_tecture.png") no-repeat scroll center 0/cover;
+  background: url("../img/main/shap_tecture.png") no-repeat scroll center 0/cover;
 }
 
 /*=============== saas banner area ================*/
@@ -3431,7 +3431,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 
 /*============= app_banner_area css ===========*/
 .app_banner_area {
-  background: url(../img/home7/banner.png) no-repeat scroll center 100%;
+  background: url(../img/main/banner.png) no-repeat scroll center 100%;
   padding-top: 230px;
   padding-bottom: 210px;
   overflow: hidden;
@@ -6080,7 +6080,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   padding-bottom: 150px;
   position: relative;
   z-index: 2;
-  background: url("../img/home9/shape_two.png") no-repeat scroll center 0;
+  background: url("../img/main/shape_two.png") no-repeat scroll center 0;
   background-size: cover;
 }
 
@@ -6103,7 +6103,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .pay_icon {
-  background: url("../img/home9/icon_shape_two.png") no-repeat scroll center 0;
+  background: url("../img/main/icon_shape_two.png") no-repeat scroll center 0;
   width: 110px;
   height: 103px;
   text-align: center;
@@ -6664,7 +6664,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   content: "";
   width: 100%;
   height: 100%;
-  background: url("../img/saas/map.png") no-repeat scroll center 0;
+  background: url("../img/main/map.png") no-repeat scroll center 0;
   position: absolute;
   top: 0;
   left: 0;
@@ -6990,7 +6990,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   top: 0;
   left: 0;
   position: absolute;
-  background: url("../img/home2/action_bg.png") no-repeat scroll center 0;
+  background: url("../img/main/action_bg.png") no-repeat scroll center 0;
 }
 
 .call_action_area .action_one {
@@ -7171,7 +7171,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   height: 100px;
   left: 0;
   z-index: -1;
-  background: url("../img/home4/action_shap.png") no-repeat scroll center top;
+  background: url("../img/main/action_shap.png") no-repeat scroll center top;
   top: 0;
   background-size: contain;
 }
@@ -8828,7 +8828,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   height: 85px;
   top: -82px;
   left: 0;
-  background: url("../img/home9/triangle_top.png") no-repeat;
+  background: url("../img/main/triangle_top.png") no-repeat;
 }
 
 .payment_clients_area .clients_bg_shape_right {
@@ -8978,7 +8978,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   height: 85px;
   top: 0px;
   left: 0;
-  background: url("../img/home9/triangle_bottom.png") no-repeat;
+  background: url("../img/main/triangle_bottom.png") no-repeat;
   background-size: contain;
 }
 
@@ -11323,7 +11323,7 @@ a .h_head:hover {
 }
 
 .h_map {
-  background: url("../img/hosting/region_map.png") no-repeat scroll center top;
+  background: url("../img/main/region_map.png") no-repeat scroll center top;
   height: 595px;
 }
 
@@ -12623,7 +12623,7 @@ a .h_head:hover {
 
 .footer_nine_area .footer_shap {
   position: absolute;
-  background: url("../img/home9/footer.png") no-repeat scroll center;
+  background: url("../img/main/footer.png") no-repeat scroll center;
   left: 0;
   width: 100%;
   background-size: cover;
@@ -12752,11 +12752,11 @@ a .h_head:hover {
 }
 
 .footer_nine_bottom .flag_selector .flag-icon.flag-icon-us {
-  background-image: url(../img/home9/flag.png);
+  background-image: url(../img/main/flag.png);
 }
 
 .footer_nine_bottom .flag_selector .flag-icon.flag-icon-mx {
-  background-image: url(../img/home9/flag.png);
+  background-image: url(../img/main/flag.png);
 }
 
 .footer_nine_bottom .flag_selector .dropdown-menu {
@@ -13450,7 +13450,7 @@ a .h_head:hover {
   height: 560px;
   z-index: -1;
   left: 0;
-  background: url("../img/home-software/down_bg.png") no-repeat scroll;
+  background: url("../img/main/down_bg.png") no-repeat scroll;
   bottom: 0;
   background-size: cover;
 }
@@ -13845,7 +13845,7 @@ a .h_head:hover {
 }
 
 .chat_get_started_area {
-  background: url("../img/home-chat/get_started_bg.png") no-repeat scroll center bottom;
+  background: url("../img/home/get_started_bg.png") no-repeat scroll center bottom;
   height: 712px;
   padding-top: 120px;
 }

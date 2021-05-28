@@ -46,16 +46,16 @@ class DeveloperTab extends Component {
                         <div className="col-lg-6">
                             <div className="tab_img_info">
                                 <div className="tab_img active" id="tab_one">
-                                    <img className="img-fluid wow fadeInRight" data-wow-delay="0.4s" src={require ("../img/home5/php.jpg")} alt=""/>
+                                    <img className="img-fluid wow fadeInRight" data-wow-delay="0.4s" src={require ("../img/main/php.jpg")} alt=""/>
                                 </div>
                                 <div className="tab_img" id="tab_two">
-                                    <img className="img-fluid wow fadeInRight" data-wow-delay="0.4s" src={require ("../img/home5/01.jpg")} alt=""/>
+                                    <img className="img-fluid wow fadeInRight" data-wow-delay="0.4s" src={require ("../img/main/01.jpg")} alt=""/>
                                 </div>
                                 <div className="tab_img" id="tab_three">
-                                    <img className="img-fluid wow fadeInRight" data-wow-delay="0.4s" src={require ("../img/home5/02.jpg")} alt=""/>
+                                    <img className="img-fluid wow fadeInRight" data-wow-delay="0.4s" src={require ("../img/main/02.jpg")} alt=""/>
                                 </div>
                                 <div className="tab_img" id="tab_four">
-                                    <img className="img-fluid wow fadeInRight" data-wow-delay="0.4s" src={require ("../img/home5/03.jpg")} alt=""/>
+                                    <img className="img-fluid wow fadeInRight" data-wow-delay="0.4s" src={require ("../img/main/03.jpg")} alt=""/>
                                 </div>
                             </div>
                         </div>

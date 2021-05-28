@@ -17,10 +17,10 @@ const CoreFeatures = () => {
                 <div className="round_circle"></div>
                 <img
                   className="top_img p_absoulte"
-                  src={require("../../img/home-chat/pluse.png")}
+                  src={require("../../img/home/pluse.png")}
                   alt=""
                 />
-                <img src={require("../../img/home-chat/chat.png")} alt="" />
+                <img src={require("../../img/home/chat.png")} alt="" />
               </div>
               <a href=".#">
                 <h4>Simlify communications</h4>
@@ -37,10 +37,10 @@ const CoreFeatures = () => {
                 <div className="round_circle two"></div>
                 <img
                   className="top_img p_absoulte"
-                  src={require("../../img/home-chat/triangle.png")}
+                  src={require("../../img/home/triangle.png")}
                   alt=""
                 />
-                <img src={require('../../img/home-chat/mobile.png')} alt="" />
+                <img src={require('../../img/home/mobile.png')} alt="" />
               </div>
               <a href=".#">
                 <h4>Quick Responce</h4>
@@ -57,10 +57,10 @@ const CoreFeatures = () => {
                 <div className="round_circle three"></div>
                 <img
                   className="top_img p_absoulte"
-                  src={require("../../img/home-chat/box.png")}
+                  src={require("../../img/home/box.png")}
                   alt=""
                 />
-                <img src={require('../../img/home-chat/book.png')} alt="" />
+                <img src={require('../../img/home/book.png')} alt="" />
               </div>
               <a href=".#">
                 <h4>Easy Report</h4>
